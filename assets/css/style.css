@@ -1,0 +1,76 @@
+#container {
+    width: 935px;
+    margin:0 auto;
+}
+
+div {
+border: 1px solid black;
+margin:10px;
+padding:10px;
+}
+
+#header {
+    width: 890px;
+    height: 100px;
+}
+
+#sidebar{
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+
+#content{
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+
+#footer{
+    width: 893px;
+    height: 50px;
+    clear: left;
+}
+#foto{
+    width: 240px;
+}
+
+
+#s1{
+    height: 50px;
+}
+
+#s2{
+    width: 48px;
+    height: 48px;
+    float: left;
+}
+ #s3{
+    width: 48px;
+    height: 48px;
+    float: left;
+ }
+
+ #s4{
+    float: left;
+    width: 139px;
+    height: 80px;
+ }
+
+ #co1{
+    width: 100px;
+    height: 100px;
+    float: right;
+ }
+
+ #co2{
+    width: 100px;
+    height: 100px;
+    float: left;
+ }
+
+ #fo1{
+    width: 50px;
+    height: 10px;
+    float: right;
+ }
